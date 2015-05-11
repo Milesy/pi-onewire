@@ -1,0 +1,4 @@
+cd /home/pi/java/onewire/current
+java -jar onewire.jar > onewire.log &
+
+10.0.1.13
